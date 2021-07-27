@@ -1,50 +1,38 @@
-### Hi there, I'm Gino Swanepoel - aka [ginoleeswan] 👋
+<h1 align="center">Hi 👋, I'm Gino Swanepoel</h1>
+<h3 align="center">A passionate frontend developer / data scientist / musician from South Africa</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrginolee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrginolee&screen_name=mrginolee)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ginoleeswan&label=Profile%20views&color=0e75b6&style=flat" alt="ginoleeswan" /> </p>
 
-## I'm a Developer & Musician
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginoleeswan" alt="ginoleeswan" /></a> </p>
 
-- 🔭 Focusing on front end development using React Framework
-- 🌱 Currently learning as much as i can
-- 👯 Always looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am also a music producer & singer/songwriter!
+<p align="left"> <a href="https://twitter.com/mrginolee" target="blank"><img src="https://img.shields.io/twitter/follow/mrginolee?logo=twitter&style=for-the-badge" alt="mrginolee" /></a> </p>
 
-### Connect with me:
+- 🔭 I’m currently working on **an Expense Tracker App**
 
-[<img align="left" alt="ginoleeswan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ginoleeswan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ginoleeswan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ginoleeswan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🌱 I’m currently learning **React Framework**
 
-<br />
+- 👯 I’m looking to collaborate on **front end development**
 
-### Languages and Tools:
+- 🤝 I’m looking for help with **anything front end / data science**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- 📫 How to reach me **ginoleemusic@live.com**
 
-<br />
-<br />
+- ⚡ Fun fact **I am also a music producer & singer/songwriter!**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mrginolee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrginolee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ginoleeswanepoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ginoleeswanepoel" height="30" width="40" /></a>
+<a href="https://kaggle.com/ginoleeswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ginoleeswan" height="30" width="40" /></a>
+<a href="https://instagram.com/mrginolee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrginolee" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ginoleeswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ginoleeswan" height="30" width="40" /></a>
+</p>
 
-[![Gino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginoleeswan)](https://github.com/ginoleeswan/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginoleeswan&layout=compact)](https://github.com/ginoleeswan/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ginoleeswan&show_icons=true&locale=en&layout=compact" alt="ginoleeswan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ginoleeswan&show_icons=true&locale=en" alt="ginoleeswan" /></p>
 
-
-[twitter]: https://twitter.com/mrginolee
-[youtube]: https://youtube.com/ginoleeswan
-[instagram]: https://instagram.com/mrginolee
-[linkedin]: https://linkedin.com/in/ginoleeswanepoel
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginoleeswan&" alt="ginoleeswan" /></p>
