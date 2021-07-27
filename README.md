@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginoleeswan&label=Profile%20views&color=0e75b6&style=flat" alt="ginoleeswan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginoleeswan" alt="ginoleeswan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginoleeswan&margin-w=15&row=1" alt="ginoleeswan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mrginolee" target="blank"><img src="https://img.shields.io/twitter/follow/mrginolee?logo=twitter&style=for-the-badge" alt="mrginolee" /></a> </p>
 
