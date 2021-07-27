@@ -1,6 +1,6 @@
 ### Hi there, I'm Gino Swanepoel - aka [ginoleeswan] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrginolee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fginoleeswan&screen_name=codeginoleeswan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mrginolee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrginolee&screen_name=mrginolee)
 
 ## I'm a Developer & Musician
 
@@ -41,3 +41,9 @@
 <br />
 
 ---
+
+
+[twitter]: https://twitter.com/mrginolee
+[youtube]: https://youtube.com/ginoleeswan
+[instagram]: https://instagram.com/mrginolee
+[linkedin]: https://linkedin.com/in/ginoleeswanepoel
