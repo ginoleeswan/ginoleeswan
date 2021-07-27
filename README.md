@@ -42,6 +42,9 @@
 
 ---
 
+[![Gino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginoleeswan)](https://github.com/ginoleeswan/github-readme-stats)
+
+
 
 [twitter]: https://twitter.com/mrginolee
 [youtube]: https://youtube.com/ginoleeswan
