@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gino Swanepoel</h1>
-<h3 align="center">A passionate frontend developer / data scientist / musician from South Africa</h3>
+<h3 align="center">Passionate front-end developer / data scientist / musician from South Africa</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/ginoswanepoel"><img src="https://img.shields.io/badge/-Gino%20Swanepoel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
