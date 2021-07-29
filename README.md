@@ -60,6 +60,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ginoleeswan&hide_title=true&hide_border=true&line_height=21" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoleeswan&hide_title=true&hide_border=true&layout=compact" />
+<a href="https://github.com/ginoleeswan">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ginoleeswan&hide_title=true&hide_border=true&line_height=21" /><!-- wi*quL3fcV -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoleeswan&hide_title=true&hide_border=true&layout=compact" />
+</a>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginoleeswan&" alt="ginoleeswan" /></p> -->
