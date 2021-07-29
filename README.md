@@ -58,6 +58,13 @@
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map) -->
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ginoleeswan&hide_title=true&hide_border=true&line_height=21" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoleeswan&hide_title=true&hide_border=true&layout=compact" />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ginoleeswan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ginoleeswan&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ginoleeswan&layout=compact&langs_count=8"/>
+</a>
+</p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginoleeswan&" alt="ginoleeswan" /></p> -->
