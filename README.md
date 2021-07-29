@@ -12,31 +12,15 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginoleeswan&label=Profile%20views&color=0e75b6&style=flat" alt="ginoleeswan" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginoleeswan&margin-w=15&row=1" alt="ginoleeswan" /></a> </p> -->
-<!--
-<p align="left"> <a href="https://twitter.com/mrginolee" target="blank"><img src="https://img.shields.io/twitter/follow/mrginolee?logo=twitter&style=for-the-badge" alt="mrginolee" /></a> </p> -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on **building my portfolio website**
-
-- 🌱 I’m currently learning **React Framework**
-
-- 👯 I’m looking to collaborate on **front end development**
-
-- 🤝 I’m looking for help with **anything front end / data science**
-
-- 📫 How to reach me **ginoleemusic@live.com**
-
-- ⚡ Fun fact **I am also a music producer & singer/songwriter!**
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mrginolee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrginolee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ginoleeswanepoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ginoleeswanepoel" height="30" width="40" /></a>
-<a href="https://kaggle.com/ginoleeswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ginoleeswan" height="30" width="40" /></a>
-<a href="https://instagram.com/mrginolee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrginolee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ginoleeswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ginoleeswan" height="30" width="40" /></a>
-</p> -->
+🔭 &nbsp; I’m currently working on **building my portfolio website** \
+🌱 &nbsp; I’m currently learning **React Framework**\
+👯 &nbsp; I’m looking to collaborate on **front end development**\
+🤝 &nbsp; I’m looking for help with **anything front end / data science**\
+📫 &nbsp; How to reach me **ginoleemusic@live.com**\
+⚡ &nbsp; Fun fact **I am also a music producer & singer/songwriter!**
 
 ### Languages
 
@@ -60,8 +44,6 @@
 
 ### Front-End Projects
 
-<!-- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2) -->
-
 [![](https://img.shields.io/badge/-⛅%20Weather%20App-000)](https://ginoleeswan.github.io/weather-app-basic/)
 [![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://ginoleeswan.github.io/todo-list-basic/)
 [![](https://img.shields.io/badge/-💰%20Expense%20Tracker-000)](https://ginoleeswan.github.io/expense-tracker-react/)
@@ -74,4 +56,5 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoleeswan&hide_title=true&hide_border=true&layout=compact" />
 </a>
 </p>
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginoleeswan&" alt="ginoleeswan" /></p> -->
