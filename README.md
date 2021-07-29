@@ -19,8 +19,8 @@
 🌱 &nbsp; I’m currently learning **React Framework**\
 👯 &nbsp; I’m looking to collaborate on **front end development**\
 🤝 &nbsp; I’m looking for help with **anything front end / data science**\
-📫 &nbsp; How to reach me **ginoleemusic@live.com**\
-⚡ &nbsp; Fun fact **I am also a music producer & singer/songwriter!**
+📫 &nbsp; How to reach me: **ginoleemusic@live.com**\
+⚡ &nbsp; Fun fact: **I am also a music producer & singer/songwriter!**
 
 ### Languages
 
