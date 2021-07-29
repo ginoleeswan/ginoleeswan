@@ -47,7 +47,7 @@
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 
-### Front-End Projects
+<!-- ### Front-End Projects -->
 
 <!--
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
