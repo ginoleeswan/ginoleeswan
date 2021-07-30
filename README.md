@@ -55,7 +55,7 @@
 
 <p align="left">
 <a href="https://github.com/ginoleeswan">
-<img height="137px"  width="450px" src="https://github-readme-stats.vercel.app/api?username=ginoleeswan&hide_title=true&hide_border=true&line_height=21" /><img height="137px" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoleeswan&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+<img height="137px"  width="440px" src="https://github-readme-stats.vercel.app/api?username=ginoleeswan&hide_title=true&hide_border=true&line_height=21" /><img height="137px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoleeswan&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </a>
 </p>
 
