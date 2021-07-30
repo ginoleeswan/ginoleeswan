@@ -2,6 +2,7 @@
 <h3 align="center">Passionate front-end developer / data scientist / musician from South Africa</h3>
 
 <p align="center">
+<a href="https://ginoleeswan.github.io/portfolio-website/#/"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ginoswanepoel"><img src="https://img.shields.io/badge/-Gino%20Swanepoel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ginoleemusic@gmail.com"><img src="https://img.shields.io/badge/-ginoleemusic@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mrginolee"><img src="https://img.shields.io/badge/-@mrginolee_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -45,6 +46,7 @@
 
 ### Front-End Projects
 
+[![](https://img.shields.io/badge/-🌐%20Portfolio%20Website-000)](https://ginoleeswan.github.io/portfolio-website/)
 [![](https://img.shields.io/badge/-⛅%20Weather%20App-000)](https://ginoleeswan.github.io/weather-app-basic/)
 [![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://ginoleeswan.github.io/todo-list-basic/)
 [![](https://img.shields.io/badge/-💰%20Expense%20Tracker-000)](https://ginoleeswan.github.io/expense-tracker-react/)
