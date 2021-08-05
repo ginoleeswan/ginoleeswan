@@ -16,16 +16,16 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp; I’m currently working on **building my portfolio website** \
-🌱 &nbsp; I’m currently learning **React Framework**\
+🔭 &nbsp; I’m currently working on **learning the MERN stack** \
+🌱 &nbsp; I’m currently learning **Backend & APIs**\
 👯 &nbsp; I’m looking to collaborate on **front end development**\
-🤝 &nbsp; I’m looking for help with **anything front end / data science**\
+🤝 &nbsp; I’m looking for help with **anything Backend / API's**\
 📫 &nbsp; How to reach me: **ginoleemusic@live.com**\
 ⚡ &nbsp; Fun fact: **I am also a music producer & singer/songwriter!**
 
 <div align="right">
 
-### Languages
+### 📝 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -35,7 +35,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
-### Technologies
+### 🧰 Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
@@ -48,7 +48,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?logo=visual-studio-code)
 
-### Front-End Projects
+### 🖥️ Front-End Projects
 
 [![](https://img.shields.io/badge/-🌐%20Portfolio%20Website-000)](https://ginoleeswan.github.io/portfolio-website/)
 [![](https://img.shields.io/badge/-🦠%20COVID_19%20Tracker-000)](https://covid-19-tracker-3342b.web.app/)
