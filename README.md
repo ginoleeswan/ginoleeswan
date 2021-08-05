@@ -14,7 +14,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginoleeswan&margin-w=15&row=1" alt="ginoleeswan" /></a> </p> -->
 
-## &nbsp;About Me <img src="./gifs/man_raising_hand.gif" width="20px"/>
+## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;About Me
 
 🔭 &nbsp; I’m currently working on **learning the MERN stack** \
 🌱 &nbsp; I’m currently learning **Backend & APIs**\
