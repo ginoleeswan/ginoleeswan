@@ -49,8 +49,8 @@
 [![](https://img.shields.io/badge/-🌐%20Portfolio%20Website-000)](https://ginoleeswan.github.io/portfolio-website/)
 [![](https://img.shields.io/badge/-🦠%20COVID_19%20Tracker-000)](https://covid-19-tracker-3342b.web.app/)
 [![](https://img.shields.io/badge/-⛅%20Weather%20App-000)](https://ginoleeswan.github.io/weather-app-basic/)
-[![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://ginoleeswan.github.io/todo-list-basic/)
 [![](https://img.shields.io/badge/-💰%20Expense%20Tracker-000)](https://ginoleeswan.github.io/expense-tracker-react/)
+[![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://ginoleeswan.github.io/todo-list-basic/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
