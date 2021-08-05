@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gino Swanepoel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gino Swanepoel</h1>
 <h3 align="center">Passionate front-end developer / data scientist / musician from South Africa</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginoleeswan&margin-w=15&row=1" alt="ginoleeswan" /></a> </p> -->
 
-## 👨🏻‍💻 &nbsp;About Me
+## &nbsp;About Me <img src="./gifs/man_raising_hand.gif" width="20px"/>
 
 🔭 &nbsp; I’m currently working on **learning the MERN stack** \
 🌱 &nbsp; I’m currently learning **Backend & APIs**\
@@ -25,7 +25,7 @@
 
 <div align="right">
 
-### 📝 Languages
+### Languages <img src="./gifs/writing_hand.gif" width="20px"/>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -35,7 +35,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
-### 🧰 Technologies
+### Technologies <img src="./gifs/rocket.gif" width="20px"/>
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
@@ -48,7 +48,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?logo=visual-studio-code)
 
-### 🖥️ Front-End Projects
+### Front-End Projects <img src="./gifs/light_bulb.gif" width="20px"/>
 
 [![](https://img.shields.io/badge/-🌐%20Portfolio%20Website-000)](https://ginoleeswan.github.io/portfolio-website/)
 [![](https://img.shields.io/badge/-🦠%20COVID_19%20Tracker-000)](https://covid-19-tracker-3342b.web.app/)
