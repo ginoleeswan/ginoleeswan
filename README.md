@@ -23,7 +23,7 @@
 📫 &nbsp; How to reach me: **ginoleemusic@live.com**\
 ⚡ &nbsp; Fun fact: **I am also a music producer & singer/songwriter!**
 
----
+<div align="right">
 
 ### Languages
 
@@ -55,6 +55,8 @@
 [![](https://img.shields.io/badge/-⛅%20Weather%20App-000)](https://ginoleeswan.github.io/weather-app-basic/)
 [![](https://img.shields.io/badge/-💰%20Expense%20Tracker-000)](https://ginoleeswan.github.io/expense-tracker-react/)
 [![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://ginoleeswan.github.io/todo-list-basic/)
+
+</div>
 
 ---
 
