@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gino Swanepoel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gino Swanepoel</h1>
 <h3 align="center">Passionate front-end developer / data scientist / musician from South Africa</h3>
 
 <p align="center">
@@ -36,6 +36,7 @@
 ### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Material-UI](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
