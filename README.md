@@ -14,7 +14,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginoleeswan&margin-w=15&row=1" alt="ginoleeswan" /></a> </p> -->
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 🔭 &nbsp; I’m currently working on **building my portfolio website** \
 🌱 &nbsp; I’m currently learning **React Framework**\
@@ -22,6 +22,8 @@
 🤝 &nbsp; I’m looking for help with **anything front end / data science**\
 📫 &nbsp; How to reach me: **ginoleemusic@live.com**\
 ⚡ &nbsp; Fun fact: **I am also a music producer & singer/songwriter!**
+
+---
 
 ### Languages
 
@@ -36,7 +38,8 @@
 ### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Material-UI](https://img.shields.io/badge/-React-000?&logo=React)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=MaterialUI)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
@@ -53,12 +56,14 @@
 [![](https://img.shields.io/badge/-💰%20Expense%20Tracker-000)](https://ginoleeswan.github.io/expense-tracker-react/)
 [![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://ginoleeswan.github.io/todo-list-basic/)
 
-### ⚙️ &nbsp;GitHub Analytics
+---
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/ginoleeswan">
 <img height="137px"  width="440px" src="https://github-readme-stats.vercel.app/api?username=ginoleeswan&hide_title=true&hide_border=true&line_height=21" /><img height="137px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoleeswan&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </a>
 </p>
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ginoleeswan'></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginoleeswan&" alt="ginoleeswan" /></p> -->
