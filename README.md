@@ -2,7 +2,7 @@
 <h3 align="center">Passionate front-end developer / data scientist / musician from South Africa</h3>
 
 <p align="center">
-<a href="https://ginoleeswan.github.io/portfolio-website/#/" target="_blank"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://ginoleeswan.github.io/portfolio-website-aug-2021/#/" target="_blank"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ginoswanepoel" target="_blank"><img src="https://img.shields.io/badge/-Gino%20Swanepoel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ginoleemusic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ginoleemusic@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mrginolee" target="_blank"><img src="https://img.shields.io/badge/-@mrginolee_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -50,7 +50,7 @@
 
 ### Front-End Projects <img src="./gifs/light_bulb.gif" width="20px"/>
 
-[![](https://img.shields.io/badge/-🌐%20Portfolio%20Website-000)](https://ginoleeswan.github.io/portfolio-website/)
+[![](https://img.shields.io/badge/-🌐%20Portfolio%20Website-000)](https://ginoleeswan.github.io/portfolio-website-aug-2021/#/)
 [![](https://img.shields.io/badge/-🦠%20COVID_19%20Tracker-000)](https://covid-19-tracker-3342b.web.app/)
 [![](https://img.shields.io/badge/-💬%20Chat%20App-000)](https://react-firechat-b7d2c.web.app/)
 [![](https://img.shields.io/badge/-💰%20Expense%20Tracker-000)](https://ginoleeswan.github.io/expense-tracker-react/)
