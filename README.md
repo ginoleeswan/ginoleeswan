@@ -16,7 +16,7 @@
 
 ## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;About Me
 
-🔭 &nbsp; I’m currently working on **learning the MERN stack** \
+🔭 &nbsp; I’m currently working on **a Bill Splitter App** \
 🌱 &nbsp; I’m currently learning **Backend & APIs**\
 👯 &nbsp; I’m looking to collaborate on **front end development**\
 🤝 &nbsp; I’m looking for help with **anything Backend / API's**\
@@ -29,6 +29,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -38,6 +39,10 @@
 ### Technologies <img src="./gifs/rocket.gif" width="20px"/>
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
+![React Router](https://img.shields.io/badge/-React_Router-000?&logo=React-Router)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-000?&logo=Styled-Components)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=MaterialUI)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
