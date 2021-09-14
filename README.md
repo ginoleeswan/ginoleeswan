@@ -76,11 +76,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ginoleeswan">
+
 <img height="200px"  width="435px"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ginoleeswan&style=--border-radius:10px"
 />
-</a>
+
 </p>
 
 <p align="center">
