@@ -75,6 +75,20 @@
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/ginoleeswan">
+<img height="200px"  width="435px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ginoleeswan&style=--border-radius:10px"
+/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ginoleeswan">
+<img style="border-radius:20px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ginoleeswan&height=80&padding=20"/>
+</a>
+</p>
+
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ginoleeswan'></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginoleeswan&" alt="ginoleeswan" /></p> -->
