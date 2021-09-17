@@ -3,10 +3,10 @@
 
 <p align="center">
 <a href="https://ginoleeswan.github.io/portfolio-website-aug-2021/#/" target="_blank"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ginoswanepoel" target="_blank"><img src="https://img.shields.io/badge/-Gino%20Swanepoel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ginoleemusic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ginoleemusic@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mrginolee" target="_blank"><img src="https://img.shields.io/badge/-@mrginolee_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/mrginolee" target="_blank"><img src="https://img.shields.io/badge/-@mrginolee_-blue?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ginoswanepoel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ginoleemusic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/mrginolee" target="_blank"><img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/mrginolee" target="_blank"><img src="https://img.shields.io/badge/-Twitter_-blue?style=flat&logo=Twitter&logoColor=white"/></a>
 </a>
 </p>
 
@@ -27,9 +27,9 @@
 
 ### Languages <img src="./gifs/writing_hand.gif" width="20px"/>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -77,7 +77,7 @@
 
 <p align="center">
 
-<img height="200px"  width="435px"
+<img height="200px" 
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ginoleeswan&style=--border-radius:10px"
 />
 
