@@ -42,6 +42,7 @@
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![React Router](https://img.shields.io/badge/-React_Router-000?&logo=React-Router)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-000?&logo=Styled-Components)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
