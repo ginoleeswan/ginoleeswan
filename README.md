@@ -46,7 +46,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=MaterialUI)
+![Material UI](https://img.shields.io/badge/-Material_UI-000?&logo=mui)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json)
